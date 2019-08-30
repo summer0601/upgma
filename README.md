@@ -15,3 +15,4 @@ This method has superior time complexity to other implementations (see
 common clustering algorithms*, from which this implementation was
 adapted). Note that one proposed optimization - storing distances in a
 heap - was not implemented.
+数据存储部分并未实现
